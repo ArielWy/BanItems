@@ -1,0 +1,4 @@
+name: BanItems
+version: '${project.version}'
+main: me.olios.plugins.banitems.BanItems
+api-version: 1.20
